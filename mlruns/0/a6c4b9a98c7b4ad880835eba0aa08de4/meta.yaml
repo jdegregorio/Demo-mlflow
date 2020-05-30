@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Repos/Demo-mlflow/mlruns/0/a6c4b9a98c7b4ad880835eba0aa08de4/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: a6c4b9a98c7b4ad880835eba0aa08de4
+run_uuid: a6c4b9a98c7b4ad880835eba0aa08de4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1580664466563
+status: 1
+tags: []
+user_id: josep
